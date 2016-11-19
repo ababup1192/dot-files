@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/abab/Desktop/react-template/node_modules'
+let g:netrw_dirhist_2='/Users/abab/Desktop/react-template/typings'
+let g:netrw_dirhist_3='/Users/abab/Desktop/react-template/node_modules/sanitize.css'
+let g:netrw_dirhist_4='/Users/abab/Desktop/react-template/src/style'
+let g:netrw_dirhist_5='/Users/abab/Desktop/cit-2016/.git'
+let g:netrw_dirhist_6='/Users/abab/Desktop/cit-2016/src'
+let g:netrw_dirhist_7='/Users/abab/Desktop/react-template/typings/modules/immutable'
+let g:netrw_dirhist_8='/Users/abab/Desktop/ekigaku_vagrant/work_space/emsDBDriver/build'
+let g:netrw_dirhist_9='/Users/abab/Desktop/ekigaku_vagrant/work_space/emsDBDriver/gradle'
