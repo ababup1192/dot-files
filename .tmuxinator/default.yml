@@ -1,0 +1,8 @@
+name: default
+root: ~/Desktop
+
+windows:
+  - main: clear
+  - sub1: clear
+  - sub2: clear
+
